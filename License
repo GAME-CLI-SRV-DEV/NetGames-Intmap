@@ -1,0 +1,42 @@
+NetGames End-User License Agreement, Freedom to play, Power to modify.
+Copyright (C) 2025 Approximaster Studios 2004 Free-Open Source Copyleft Interactive Computer Entertainment Organization & Contributors. All Rights Reversed.
+
+Effective Date: [Insert Date] Version: 1.0
+
+This End User License Agreement (“Agreement”) governs your use of games, console firmware, and related software (“Software”) distributed by Approximaster Studios 2004 Free-Open Source Copyleft Interactive Computer Entertainment Organization.(“NetGames, or GAME-CLI-SRV-DEV”).
+
+1. 📜 License Grant
+NetGames grants you a non-exclusive, worldwide, royalty-free license to use, modify, and distribute the Software in accordance with the terms of the following open-source licenses:
+
+GNU General Public License v2 or Later(GPLv2)
+
+GNU General Public License v3 or Later(GPLv3)
+
+MIT License
+
+BSD 3-Clause License
+
+Apache License 2.0
+
+Each component of the Software is licensed under one or more of the licenses above. You must comply with the terms of the applicable license(s) when using or redistributing the Software.
+
+2. 🔧 Source Code Availability
+Where required by license terms (e.g., GPL), source code will be made available to users either bundled with the Software or via a public repository.
+
+3. 🚫 Restrictions
+You may not:
+
+Use the Software in violation of applicable laws or regulations, Such as:
+Propritary Relicense the source code of the your modified software.
+not distributing the source code of the your modified software.
+sue others for patent infringement based on your software that was based on the project.
+Implementing DRM on the source code of the your modified Software.(Tivoization/DRM)
+Remove or alter copyright notices, license texts, or attribution clauses.
+Misrepresent the origin of the Software or its contributors.
+You know those 5 violations aren't progressive and aren't permissive! suing people over your modified netgames software and implementing drm on it doesnt make sense.
+
+4. 🛡️ Disclaimer of Warranty
+The Software is provided “AS IS,” without warranty of any kind. NetGames and its contributors disclaim all warranties, express or implied, including but not limited to merchantability, fitness for a particular purpose, and non-infringement.
+
+5. 💥 Limitation of Liability
+In no event shall NetGames or its contributors be liable for any damages arising from the use or inability to use the Software, including but not limited to loss of data, profits, or business interruption.
