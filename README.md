@@ -1,2 +1,3 @@
 # NetGames-Intmap
-게임 아이템 개수 매핑(부호없음&lt;->부호있음)
+Game Item Integer Mapping
+Copyright (C) Approximaster Studios 2004 Free-Open source Copyleft Interactive Computer Entertainment. All Rights Reversed.
